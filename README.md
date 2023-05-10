@@ -28,8 +28,8 @@ QR-Code/images/qr-component-mobile-layout.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://githttps://github.com/elamuhombe/QR-Code-component/blob/main/QR-Code/index.htmlhub.com/elamuhombe/QR-Code-component/blob/main/QR-Code/index.html)
+
 
 ## My process
 
