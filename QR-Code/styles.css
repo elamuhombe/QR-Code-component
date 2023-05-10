@@ -1,0 +1,52 @@
+/*--GENRAL LAYOUT FOR ALL DEVICE WIDTH--*/
+
+
+body{
+    background-color: #b1d2f5;
+}
+.container{
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 320px;
+    height: 420px;
+
+}
+img{
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+}
+h2{
+    padding-top: 20px;
+    font-size: 22px;
+    display:table-cell;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:900;
+}
+.text-1{
+   
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: hsla(212, 87%, 3%, 0.555);
+}
+
+/*--MOBILE LAYOUT--*/
+@media  (max-width: 600px) {
+   
+}
+    
+/*--DESKTOP LAYOUT-*/
+@media  (min-width: 1000px) {
+       
+            
+           
+        }
+        
+    
+    
