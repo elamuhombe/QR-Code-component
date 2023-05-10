@@ -20,9 +20,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The purpose of this challenge is to build out a QR code component using html and css for mobile and desktop devices.
 
 ### Screenshot
+Desktop layout design:
+./images/qr-component-desktop-layout.png
 
-![](./screenshot.jpg)
-./images/
+Mobile layout design:
+./images/qr-component-mobile-layout.png
 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
