@@ -28,7 +28,7 @@ QR-Code/images/qr-component-mobile-layout.png
 
 ### Links
 
-- Solution URL: (https://githttps://github.com/elamuhombe/QR-Code-component/blob/main/QR-Code/index.htmlhub.com/elamuhombe/QR-Code-component/blob/main/QR-Code/index.html)
+- Solution URL: (https://github.com/elamuhombe/QR-Code-component)
 
 
 ## My process
