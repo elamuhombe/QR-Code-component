@@ -20,7 +20,7 @@ img{
     width: 300px;
     height: 250px;
 }
-h1{
+.heading1{
     padding-top: 20px;
     font-size: 22px;
     display:table-cell;
