@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: #F2F2F2
+    background-color: Light Grey;
 }
 .main{
     background-color: #fff;
@@ -33,7 +33,7 @@ img{
     text-align: center;
     font-family: sans-serif;
     font-weight: 400;
-    color: hsla(212, 87%, 3%, 0.555);
+    color: Grey;
 }
 
 /*--MOBILE LAYOUT--*/
