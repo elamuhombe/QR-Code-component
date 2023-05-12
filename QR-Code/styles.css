@@ -3,6 +3,7 @@
 
 body{
     background-color: Light Grey;
+    font-family: Outfit;
 }
 .main{
     background-color: #fff;
@@ -23,17 +24,17 @@ img{
 .heading1{
     padding-top: 20px;
     font-size: 22px;
+    line-height: 28px;
     display:table-cell;
     text-align: center;
-    font-family: sans-serif;
-    font-weight:900;
+    font-weight:700;
+    color: #1f31f4;
 }
 .text-1{
     font-size: 15px
     text-align: center;
-    font-family: sans-serif;
     font-weight: 400;
-    color: Grey;
+    color: #7D89E;
 }
 
 /*--MOBILE LAYOUT--*/
